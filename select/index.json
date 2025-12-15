@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マンピーのG★SPOT",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-15T13:58:28.118944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マンピーのG★SPOT",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_マンピーのG★SPOT_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マンピーのG★SPOT - Manpie no G-SPOT",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/02_マンピーのG★SPOT_-_Manpie_no_G-SPOT_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マンピーのG★SPOT",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/03_マンピーのG★SPOT_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マンピーのG☆Spot",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_マンピーのG☆Spot_サザンオールスターズ.txt"
+    }
+  ]
+}
